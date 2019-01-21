@@ -2,21 +2,21 @@
   "development": {
     "username": "root",
     "password": "silverSTAR@7795",
-    "database": "temp",
+    "database": "shopifyTest",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
     "password": "silverSTAR@7795",
-    "database": "database_test",
+    "database": "shopifyTest",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": "silverSTAR@7795",
-    "database": "database_production",
+    "database": "shopifyTest",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
