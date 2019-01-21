@@ -47,4 +47,5 @@ npm test
 
 IX) The test contains the complete user story from adding the products to cart, searching the products ,purchasing the products
 
+X) you can use the graphql interactive interface on the post http://localhost:4000/graphql or http://[HOSTNAME]:4000/graphql
 
